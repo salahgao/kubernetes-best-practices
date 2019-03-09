@@ -1,4 +1,4 @@
-# Kubernetes Best Practices
+# Kubernetes Note
 
 ## Kubernetes架构
 
